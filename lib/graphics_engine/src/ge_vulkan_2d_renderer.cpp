@@ -13,6 +13,7 @@
 #include <string>
 #include <stdexcept>
 #include <utility>
+#include <stdexcept>
 
 #include "rect.h"
 #include "vector2d.h"

@@ -9,6 +9,7 @@
 #include <memory>
 #include <mutex>
 #include <thread>
+#include <stdexcept>
 
 #include "../source/Irrlicht/os.h"
 

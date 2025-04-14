@@ -9,6 +9,7 @@ extern "C"
 #include <cstdint>
 #include <memory>
 #include <vector>
+#include <stdexcept>
 
 #include "dimension2d.h"
 

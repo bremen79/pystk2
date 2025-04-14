@@ -11,6 +11,7 @@
 #include <algorithm>
 #include <cassert>
 #include <vector>
+#include <stdexcept>
 
 namespace GE
 {
