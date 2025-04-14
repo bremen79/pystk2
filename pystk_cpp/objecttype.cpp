@@ -3,6 +3,7 @@
 #include <iostream>
 #include <unordered_map>
 #include <vector>
+#include <cstdint>
 
 ObjectType getOT(const std::string & debug_name) {
 	return OT_UNKNOWN;
